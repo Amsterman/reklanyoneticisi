@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /cgi-bin/
+Disallow: /private/
+
+# Sitemap Entegrasyonu
+Sitemap: https://www.reklamyoneticisi.com/sitemap.xml
